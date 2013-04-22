@@ -1,0 +1,60 @@
+<html>
+ <head> 
+  <title>bg's design hole</title>
+  <link href="i.css" type="text/css" rel="stylesheet"> 
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  
+  <link href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" type="text/css" rel="stylesheet">
+  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+ <script>
+
+ </script> 
+ </head>
+ <body>
+    <a href="index.html">
+     <div id="bg"class="bg">
+     </div>
+     
+     <div id="fm">
+      
+       <a href="https://www.facebook.com/xvxvxvooo">
+       <div id="facebook" class="facebook">
+       </div>
+      </a> 
+
+      <a href="xvxvxvooo@naver.com">
+       <div id="mail" class="mail"> 
+       </div>
+       </a>   
+     </div>    
+     
+     <div class="bottom">
+    </a>
+       
+      <a  href="i-1.html"> 
+	<div id="bottom1" class="bottom1" ></div>
+       </a>   
+   
+       <a href="i-2.html"> 
+	 <div id="bottom1" class="bottom2" ></div>
+       </a>
+   
+       <a href="i-3.html"> 
+	 <div id="bottom1" class="bottom3"></div>
+      </a>
+ 
+      <a href="i-4.html">
+       <div id="bottom1" class="bottom4"></div> 
+      </a>
+
+    </div>
+
+
+
+
+
+ </body>
+</html>
+

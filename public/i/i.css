@@ -1,0 +1,108 @@
+body
+
+{ background-image:url('i.1..png');
+  width:1366px; 
+  height:768px; 
+  margin:0px;
+  padding:0px;
+
+}
+.bg 
+{
+  
+  margin-left:583;
+  margin-right:auto;
+  margin-top:213px;  
+  position:absolute;
+  width:201px;
+  height:200px;
+}
+
+#bg{
+background:url("bg.png") no-repeat;}
+#bg:hover{
+background:url("bg-click.png") no-repeat;}
+.fm{
+position:absolute;
+z-index:10px;
+margin-left:636px;
+margin-right:auto;
+margin-top:431px;
+position:absolute; 
+width:100px;
+height:40px;
+}
+.facebook{
+margin:0px 10px 0px 0px;
+width:40px;
+height:40px;
+float:left;}
+
+#facebook{
+  background:url("facebook.png") no-repeat;}
+#facebook:hover
+{
+background:url("facebook-click.png") no-repeat;}
+.mail
+{ margin:0px 10px 0px 0px; 
+  height:40px;
+  width:40px; 
+  float:left;
+}
+#mail
+{ background:url("mail.png") no-repeat;
+}
+#mail:hover
+{
+  background:url("mail-click.png")no-repeat;
+
+}
+.bottom 
+{
+  margin-left:auto;
+  margin-right:auto;
+  z-index:10px;   
+  height:100px;
+  width:475px; 
+}
+#bottom1{
+background:url("black.png")no-repeat;}
+#bottom1:hover
+{
+  background:url("white.png")no-repeat;
+}
+.bottom1
+{ background:url("black.png")no-repeat;
+  margin: 595px 7px 0px 7px;
+  padding:0px; 
+  width:100px; 
+  height:100px;
+  float:left; 
+}
+.bottom2
+{ 
+  background:url("black.png")no-repeat;
+  margin: 595px 7px 0px 7px; 
+  padding:0px; 
+  width:100px;
+  height:100px;
+  float:left; 
+}
+.bottom3
+{
+  margin: 595px 7px 0px 7px;
+  padding:0px;
+  width:100px;
+  height:100px;
+  float:left;
+
+}
+.bottom4
+{
+  margin: 595px 7px 0px 7px;
+  padding:0px;
+  width:100px;
+  height:100px;
+  float:left; 
+
+}
